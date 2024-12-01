@@ -7,6 +7,7 @@
     "test": "npx playwright test",
     "ui-mode": "npx playwright test --ui"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
